@@ -1,0 +1,26 @@
+.navbar-custom {
+    background-color: rgb(96, 197, 228);
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index:999;
+}
+.dropdown-menu{
+    background-color: rgb(96, 197, 228);
+}
+.custom-button{
+    color:'black';
+    outline:'none';
+    margin-right: 0.4rem;
+}
+.custom-dropdown-button{
+    background-color: rgb(96, 197, 228);
+    color: black;
+}
+/* .navbar{
+    position:fixed;
+    top : 0;
+    width : 100%;
+  
+} */

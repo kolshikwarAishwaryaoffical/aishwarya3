@@ -1,0 +1,39 @@
+.div1{
+    margin-top: 50%;
+    padding:200px;
+    background-position: center;
+    min-height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    width:100%;
+    /* background-image:url("C:\Users\kolshikwar.aishwarya\Desktop\Employee-Management-Frontend\employee-management-system-frontend\src\Pages\download.png");
+ */
+}
+.form{
+    left:0;
+    margin:20px;
+    max-width:300px;
+    padding:16px;
+    background-color: white;
+}
+.h3{
+    text-align:center;
+    font-size:1.5rem;
+    margin-bottom:30px;
+    justify-content: center;
+}
+.button[type='submit']{
+    width:100%;
+    padding:10px;
+    margin-top:20px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    background-color: rgb(139,82,139);
+    color:beige;
+    justify-content: center;
+}
+button[type='submit']:hover{
+    background-color: rgb(144,144,234);
+}
